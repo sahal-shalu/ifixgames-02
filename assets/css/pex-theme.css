@@ -2395,7 +2395,7 @@ body.body .text-valid {
   padding: 20px;
 }
 .menu-wrap.line .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 /* shop homepages menu styles */
 .shop-menu .menu-row,
@@ -2560,7 +2560,7 @@ body.body .text-valid {
     float: left;
   }
   .menu-wrap.line .menu-container {
-    padding: 15px 20px;
+    padding: 10px;
   }
   .menu-wrap.line .menu {
     position: fixed;
@@ -2803,7 +2803,7 @@ body.body .text-valid {
     font-size: 14px;
   }
   .menu-wrap.simple .logo img {
-    max-height: 40px;
+    max-height: 90px;
   }
   .menu-wrap.contacts {
     padding-top: 20px;
@@ -2832,7 +2832,7 @@ body.body .text-valid {
     padding-right: 25px;
   }
   .menu-wrap.simple .logo img {
-    max-height: 60px;
+    max-height: 90px;
   }
   .menu-wrap.contacts {
     padding-top: 30px;
@@ -2869,10 +2869,10 @@ body.body .text-valid {
     [9. Footer]
 */
 .footer-logo {
-  height: 70px;
+  height: 90px;
 }
 .footer-logo img {
-  max-height: 50px;
+  max-height: 90px;
 }
 .footer-title {
   padding: 40px 0 10px;
